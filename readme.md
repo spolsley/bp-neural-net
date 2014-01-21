@@ -1,0 +1,1 @@
+bp-neural-net is an octave/matlab implementation of a back-propagating neural network.  Data is read in from the training data provided in a .mat file and the network can be trained for varying numbers of epochs by different metrics.  A sample set of data is included for image classification of the numbers from 0 to 9.
